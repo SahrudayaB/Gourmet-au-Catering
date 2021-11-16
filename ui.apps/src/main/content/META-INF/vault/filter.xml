@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/gourmetSite/clientlibs"/>
+    <filter root="/apps/gourmetSite/components"/>
+    <filter root="/apps/gourmetSite/i18n"/>
+</workspaceFilter>
